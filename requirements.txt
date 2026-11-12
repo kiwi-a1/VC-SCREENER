@@ -1,0 +1,11 @@
+anthropic>=2.8
+fastapi
+uvicorn
+python-multipart
+httpx
+pypdf
+python-docx
+python-pptx
+google-api-python-client
+google-auth
+pytest
